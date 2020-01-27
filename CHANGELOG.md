@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.10.1](https://www.github.com/googleapis/java-bigtable/compare/v1.10.0...v1.10.1) (2020-01-27)
+
+
+### Dependencies
+
+* update dependency com.google.http-client:google-http-client-bom to v1.34.1 ([#175](https://www.github.com/googleapis/java-bigtable/issues/175)) ([c25e8aa](https://www.github.com/googleapis/java-bigtable/commit/c25e8aa509796c33af4c53ffb68d7e40e6dbc237))
+
 ## [1.10.0](https://www.github.com/googleapis/java-bigtable/compare/v1.9.1...v1.10.0) (2020-01-27)
 
 
